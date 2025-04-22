@@ -1,2 +1,2 @@
 # metodos-de-busca
- BFS, DFS, A*, Menor Custo, Busca Gulosa....
+ BFS, DFS, A*, Menor Custo, Busca Gulosa.
